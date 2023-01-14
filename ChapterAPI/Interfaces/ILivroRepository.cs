@@ -9,5 +9,15 @@ namespace ChapterAPI.Interfaces
     {
         //método que deverá ser implementado pela classe que herdar desta interface
         List<Livro> Ler();
+
+        void Cadastrar(Livro livro);
+
+        void Atualizar(int id, Livro livro);
+
+        void Deletar(int id);
+
+        Livro BuscarPorId(int id);
+
+        Livro BuscarPorTitulo(string titulo);
     }
 }
