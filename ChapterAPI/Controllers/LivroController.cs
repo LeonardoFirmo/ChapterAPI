@@ -1,6 +1,7 @@
 ﻿using ChapterAPI.Interfaces;
 using ChapterAPI.Models;
 using ChapterAPI.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -57,6 +58,7 @@ namespace ChapterAPI.Controllers
 
         
         [HttpPost]
+        [Authorize]
         public IActionResult Cadastrar(Livro livro)
         {
             try

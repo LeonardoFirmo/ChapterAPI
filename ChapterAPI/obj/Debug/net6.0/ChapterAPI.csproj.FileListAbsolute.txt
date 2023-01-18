@@ -128,3 +128,4 @@ C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\refint\
 C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.pdb
 C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.genruntimeconfig.cache
 C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ref\ChapterAPI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
